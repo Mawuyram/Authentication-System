@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522140805 source:c:\users\markay\documents\proj\authentication\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<windows.h>
+	<mysql.h>
+	<iomanip>
+	<sstream>
+
